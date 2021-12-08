@@ -1,0 +1,89 @@
+.jumbotron {
+  padding-top: 7rem;
+  /* background-color: #333; */
+  background-color: #e2edff;
+  /* font-family:monospace; */
+}
+
+.text-about {
+  margin-bottom: 75px;
+}
+
+section {
+  padding-top: 10rem;
+}
+
+#contact {
+  background-color: #e2edff;
+}
+
+.socialIcons {
+  padding-right: 32px;
+  /* align-items: center; */
+}
+
+ul.socialIcons {
+  padding-right: 100px;
+  /* text-align: center; */
+}
+
+.socialIcons li {
+  /* background-color: yellow; */
+  list-style: none;
+  display: inline-block;
+  margin: 4px;
+  border-radius: 2em;
+  overflow: hidden;
+}
+
+.socialIcons li a {
+  display: block;
+  padding: 0.5em;
+  /* min-width: 1.28571429em; */
+  min-width: 35px;
+  /* max-width: 1.28571429em; */
+  max-width: 35px;
+  /* height: 1.28571429em; */
+  height: 35px;
+  white-space: nowrap;
+  line-height: 1.5em; /*it's working only when you write text with icon*/
+  transition: 0.5s;
+  text-decoration: none;
+  font-family: arial;
+  color: #fff;
+}
+
+.socialIcons li i {
+  margin-right: 0.5em;
+  /* margin-right: 1em; */
+}
+
+.socialIcons li:hover a {
+  max-width: 200px;
+  padding-right: 1em;
+}
+
+.socialIcons .facebook {
+  background-color: #3b5998;
+  box-shadow: 0 0 16px #3b5998;
+}
+
+.socialIcons .twitter {
+  background-color: #00aced;
+  box-shadow: 0 0 16px #00aced;
+}
+
+.socialIcons .instagram {
+  background-color: #C13584;
+  box-shadow: 0 0 16px #C13584;
+}
+
+.socialIcons .whatsapp {
+  background-color: #25d366;
+  box-shadow: 0 0 16px #25d366;
+}
+
+.socialIcons .github {
+  background-color: #666666;
+  box-shadow: 0 0 16px #666666;
+}
