@@ -12,7 +12,7 @@
   pip install flask
   
 
-<h2>pake</h2>
+<h2>create virtual envirotment</h2>
 
   virtualenv myenv  
   source myenv/bin/activate
