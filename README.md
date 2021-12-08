@@ -4,6 +4,7 @@
   Bootstrap 5  
   AOS  
   Python Flask  
+  Python 3.8
 
 <h2>Module</h2>  
 
